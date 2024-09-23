@@ -1,2 +1,2 @@
 # SocketProgramming
-socket programming with python using UDP and TCP in python which I learned from Computer Netwroks course in university 
+socket programming with python using UDP and TCP in python which I learned from Computer Netwroks course at 7th term of university in my Bachelor of Science in computer engineering.
